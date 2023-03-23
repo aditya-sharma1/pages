@@ -1,0 +1,24 @@
+.box{
+  display: block;
+  margin-bottom: 5px;
+}
+.survey{
+  width: 200px;
+  display: inline-block;
+  vertical-align: middle;
+}
+.logo{
+  width: 250px;
+  margin-left: 160px;
+  display: block;
+}
+.search{
+  width: 555px;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+}

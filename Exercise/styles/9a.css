@@ -1,0 +1,122 @@
+body {
+  font-family: Arial;
+}
+
+div {
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+}
+
+.red-square {
+  background-color: red;
+}
+
+.green-circle {
+  background-color: green;
+  border-radius: 50px;
+}
+
+.survey {
+  width: 400px;
+  border-style: solid;
+  border-width: 1px;
+  padding: 15px;
+}
+
+.music {
+  width: 400px;
+  height: fit-content;
+  padding: 15px;
+  background-color: rgb(24, 24, 24);
+}
+
+.ymusic {
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+
+.ydetail {
+  color: gray;
+}
+
+.tweet {
+  width: fit-content;
+  height: fit-content;
+  padding: 15px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+  border-radius: 8px;
+}
+
+.dp {
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  vertical-align: middle;
+}
+
+.tweet-box {
+  vertical-align: middle;
+  padding: 10px;
+  border: none;
+  font-size: 22px;
+  width: 250px;
+}
+
+.tweet-button {
+  vertical-align: middle;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: rgb(98, 98, 255);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  border-radius: 30px;
+}
+
+.suggestion {
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.6);
+  width: fit-content;
+  height: fit-content;
+  margin-right: 8px;
+  margin-left: 8px;
+}
+
+.dp-suggest {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+}
+
+.name {
+  padding-left: 8px;
+  margin-top: 10px;
+  margin-bottom: 8px;
+  font-weight: bold;
+}
+
+.mutual {
+  padding-left: 8px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  color: rgb(65, 65, 65);
+}
+
+.friend {
+  margin: 10px;
+  border: none;
+  background-color: blue;
+  color: white;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}

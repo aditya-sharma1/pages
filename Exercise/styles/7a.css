@@ -1,0 +1,15 @@
+.rounded-rect{
+  width: 200px;
+  border-radius: 15px;
+}
+.square{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+.circle{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50px;
+}

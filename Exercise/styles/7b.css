@@ -1,0 +1,64 @@
+body{
+  font-family: Arial;
+}
+.small-search{
+  padding: 10px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-style: solid;
+  margin-right: 20px;
+}
+.big-search{
+  padding: 10px;
+  width: 300px;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+p{
+  margin-bottom: 5px;
+}
+.email{
+  padding: 8px;
+  width: 380px;
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 5px;
+}
+.join{
+  width: 400px;
+  padding: 15px;
+  margin-top: 10px;
+  font-size: 22px;
+  background-color: blue;
+  color: white;
+  border: none;
+  border-radius: 26px;
+}
+.dp{
+  width: 60px;
+  height: 60px;
+  object-fit: cover;
+  border-radius: 30px;
+  vertical-align: middle;
+}
+.tweet-box{
+  vertical-align: middle;
+  padding: 10px;
+  border: none;
+  font-size: 22px;
+  width: 350px;
+}
+.tweet-button{
+  vertical-align: middle;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: rgb(98, 98, 255);
+  color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+  border-radius: 30px;
+}

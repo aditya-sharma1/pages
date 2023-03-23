@@ -1,0 +1,32 @@
+.logo{
+  width: 30%;
+}
+.d-logo{
+  text-align: center;
+}
+.search{
+  width: 50%;
+  border-radius: 50px;
+  border: none;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.35);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.d-search{
+  text-align: center;
+}
+.d-buttons{
+  text-align: center;
+  margin-top: 20px;
+}
+button{
+  background-color: rgb(223, 223, 223);
+  border: none;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin: 10px;
+}

@@ -1,0 +1,63 @@
+body{
+  margin: 20px;
+  font-family: Arial;
+}
+.name{
+  width: 42.9%;
+  margin-right: 5px;
+}
+.name, .email {
+  padding: 14px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-radius: 8px;
+  border-color: rgba(0, 0, 0, 0.15);
+}
+.email{
+  width: 93.5%;
+  display: block;
+}
+.signup{
+  width: 99%;
+  padding: 16px;
+  font-weight: bold;
+  background-color: blueviolet;
+  color: white;
+  font-size: larger;
+  border: none;
+  border-radius: 8px;
+}
+p{
+  font-weight: bold;
+  font-size: 44px;
+  margin-bottom: 20px;
+}
+.location{
+  display: block;
+  margin-bottom: 10px;
+  background-color: rgb(255, 211, 211);
+  border: none;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  width: 97%;
+}
+.now{
+  background-color: black;
+  color: white;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: none;
+  margin-right: 10px;
+}
+.later{
+  background-color: rgb(236, 195, 195);
+  color: black;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border: none;
+}
