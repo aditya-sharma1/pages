@@ -1,1 +1,1 @@
-alert('Hi');
+alert('Hi, this website is just dummy YouTube I created for CSS practice.');
